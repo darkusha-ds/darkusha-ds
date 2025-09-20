@@ -4,7 +4,6 @@
 **Свежие проекты**
 - [docker-portfolio](https://github.com/darkusha-ds/docker-portfolio) — compose.yml, NGINX reverse-proxy, примеры деплоя
 - [dark-angel.ru](https://github.com/darkusha-ds/dark-angel.ru) — личный сайт (HTML/CSS/JS, Docker, NGINX)
-- (опционально) Figma → web демо
 
 **Контакты**
 - Docker Hub: https://hub.docker.com/u/darkushads
